@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Muayad Fandqle
 
-![banner](https://raw.githubusercontent.com/muayadcode/muayadcode/main/banner.png)
 
 ---
 
@@ -40,7 +39,7 @@ Passionate about delivering dynamic user interfaces, real-time functionality, an
 - Focus on performance and UI/UX improvements.
 
 **Web Developer** — Africompassion Organization (Jan 2024 – Apr 2024)  
-- Created responsive donation platform, reducing bounce rate by 25%.  
+- Created a responsive donation platform, reducing bounce rate by 25%.  
 - Optimized UX to improve donation conversions and mobile experience.
 
 **Full Stack React Developer** — Buy More Dollars (Feb 2024 – Apr 2024)  
@@ -82,16 +81,13 @@ Tech: PHP, MySQL, AJAX
 <p>
   <a href="mailto:moayad_nashwan@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/muayadfandqle"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/muayadjo"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://muayadtech.ca"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact  
-Coffee lover ☕ who codes creative, performant, and accessible web experiences!
+Coffee lover ☕ who codes creative, performant, and accessible software solutions!
 
----
 
-*Made with ❤️ by Muayad Fandqle*
 
