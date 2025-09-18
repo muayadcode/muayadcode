@@ -18,7 +18,6 @@ Passionate about delivering dynamic user interfaces, real-time functionality, an
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=swagger&logoColor=white" />
@@ -64,15 +63,6 @@ Tech: React, Firebase, Regex, Canvas API
 Tech: PHP, MySQL, AJAX  
 [Live Site](https://easygroceries.muayadtech.ca)  
 - Dynamic shopping cart with real-time updates and database integration.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muayadcode&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muayadcode&theme=radical" />
-</p>
 
 ---
 
