@@ -28,7 +28,7 @@ Passionate about delivering dynamic user interfaces, real-time functionality, an
 
 ### 💼 Work Experience Highlights
 
-**Front End Developer** — The Barrett Centre (May 2024 – Sept 2024)  
+**Front End Developer** — Barrett Centre of Innovation (May 2024 – Sept 2024)  
 - Built a responsive recipe website using ReactJS & Bootstrap, boosting usability by 30%.  
 - Implemented dynamic routing & reusable components.  
 - Conducted accessibility audits meeting WCAG/AODA standards.
