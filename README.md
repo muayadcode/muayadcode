@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-Results-driven **Front-End Developer** with 3+ years building fast, responsive, and accessible web apps using ReactJS, JavaScript (ES6+), Firebase, WordPress, PHP, and modern frameworks.  
+Results-driven **Front-End Developer** with 3+ years building fast, responsive, and accessible web apps using ReactJS, Typescript, JavaScript (ES6+), Firebase and modern frameworks.  
 Passionate about delivering dynamic user interfaces, real-time functionality, and seamless cross-device experiences. Skilled in Agile and SDLC workflows.
 
 ---
